@@ -2,7 +2,7 @@
 ### Data Analyst
 
 - 🌱 I’m currently learning Power BI, SQL, Python, Excel
-- 📫 How to reach me: sahajahanur@email.com
+- 📫 How to reach me: connectingsrl@gmail.com
 - ⚡ Fun fact: Turning from Customer Support to Data Analyst
 
 ### Connect with me:
